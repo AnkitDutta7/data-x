@@ -1,4 +1,4 @@
- name = "Alexander Fred Ojala"
- SID = "0123456789"
- email = "afo@berkeley.edu"
- github_name = "alexanderfo"
+ name = "Ankit Dutta"
+ SID = "3032167048"
+ email = "ankitdutta@berkeley.edu"
+ github_name = "AnkitDutta7"
